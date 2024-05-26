@@ -65,4 +65,8 @@ In this repo, the notebooks of our research can be found. Our results and conclu
 
 ## Contact
 
-For any questions or collaborations, please reach out to us at tomerfried96@gmail.com.
+For any questions or collaborations, please reach out to us:
+
+Guy Paul Hadad - Guyphadad@gmail.com
+
+Tomer Fried - tomerfried96@gmail.com
