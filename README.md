@@ -57,7 +57,7 @@ Phee calls made by an individual named Dionysus to other individuals. In the dia
 
 ## Acknowledgments
 
-Special thanks to Prof. David Omer, Edmond & Lily Safra Center for Brain Sciences, The Hebrew University of Jerusalem
+Special thanks to Prof. David Omer, Edmond & Lily Safra Center for Brain Sciences, The Hebrew University of Jerusalem.
 
 ## Repo Content
 
